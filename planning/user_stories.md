@@ -1,10 +1,10 @@
 # User Stories
 
-Reference the Writing User Stories final project guide in the course portal for more information about how to complete each of the sections below.
+
 
 ## Outline User Roles
 
-**Job Seeker** - A student or recent graduate actively applying to internships and full-time positions who needs to stay organized during their job search.
+**Job Seeker**:  A student or recent graduate actively applying to internships and full-time positions who needs to stay organized during their job search.
 
 ## Draft User Stories
 
